@@ -154,8 +154,8 @@ Notes: **Solarian swaps her focus constantly — the shamans and Tempest heal wh
 ### Kael'thas Sunstrider
 | Healer | P1 advisors | P2 weapons | P3 all advisors | P4-5 Kael |
 |---|---|---|---|---|
-| Healparser | Adricus | Adricus | Corner tanks (Adricus + Treels) | Treels (Kael MT) |
-| Stormyluna | **Chain Heal on Treels** (bounces to Adricus) | Treels | Corner tanks | Melee CH (primary target: Treels) + Adricus (phoenix/adds) |
+| Healparser | Adricus | Adricus | Corner tanks (Adricus focus + Treels) | Treels (Kael MT) |
+| Stormyluna | **Chain Heal on Treels** (bounces to Adricus) | Treels | Corner tanks (treels focus) | Melee CH (primary target: Treels) + Adricus (phoenix/adds) |
 | Colbsterx | Raid Chain Heal | Adricus (with Healparser) | Flex — corner tanks / raid | Raid CH + Flamestrike victims |
 | Gipples | Capernian lock tank | Raid CoH | Capernian lock tank | Raid CoH |
 | Tempest | Mechanics victims + raid CoH | Raid CoH | Mechanics victims + raid CoH | MC-phase triage + raid CoH |
