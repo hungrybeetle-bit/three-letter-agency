@@ -8,7 +8,7 @@
 | Stormyluna | Resto Shaman | Chain Heal on tanks/melee |
 | Colbsterx | Resto Shaman | Chain Heal raid |
 | Gipples | Holy Priest | Raid CoH; lock tanks only |
-| Tempest | Holy Priest | Raid CoH / flex — never on tanks |
+| Tempest | Holy Priest | Raid CoH / flex |
 
 **Standing rules:**
 - **Tank comp: Adricus (Prot Paladin, boss tank), Sarixen (Prot Paladin, trash only), Treels (Feral bear).**
