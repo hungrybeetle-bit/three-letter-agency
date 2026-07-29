@@ -167,6 +167,4 @@ Notes: P1: Stormyluna's primary Chain Heal target is Treels — cast on him and 
 ## Mana / cooldown notes
 
 - Karathress and Kael are the genuinely tight fights for 5 healers — pre-pot, Dark/Demonic Runes, Shadowfiend + Innervate mapped before pull.
-- Shamans stagger Mana Tide — one at ~60% raid mana, one at ~30%.
 - Fear Ward assignments (P2 has three fear fights): Solarian P2, Kael Sanguinar, Vashj P2 striders (kiter, if warranted).
-- Battle rez priority: healer > tank > dps, always.
