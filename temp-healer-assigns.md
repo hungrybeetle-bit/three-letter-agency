@@ -29,7 +29,7 @@
 | Kumin | Cast Chain Heal on Treels — bounces cover melee |
 | Colbsterx | Cast Chain Heal on Sarixen — bounces cover melee |
 | Gipples | Raid CoH + dispels |
-| Tazianne | Cast Chain Heal on Hesky/raid as you see fit |
+| Tazianne | Cast Chain Heal on Hesky/raid |
 
 If Calph does end up tanking a pack, Colbsterx swaps Chain Heal to him. Shamans weave Healing Wave if a pack chunks your tank — don't rely on Chain Heal alone. TK caster packs = heavy dispel duty — Gipples is the only dispeller, shamans help with poisons/curses where able.
 
