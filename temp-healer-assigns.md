@@ -25,7 +25,7 @@
 
 | Healer | Assignment |
 |---|---|
-| Healparser | Sarixen > Calph > Treels |
+| Healparser | Sarixen > Hesky > Treels |
 | Kumin | Cast Chain Heal on Treels — bounces cover melee |
 | Colbsterx | Cast Chain Heal on Sarixen — bounces cover melee |
 | Gipples | Raid CoH + dispels |
