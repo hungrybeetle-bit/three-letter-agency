@@ -42,7 +42,7 @@ If Calph does end up tanking a pack, Colbsterx swaps Chain Heal to him. Shamans 
 | Colbsterx | Sarixen (the pack tank) |
 | Gipples | Treels + raid CoH where able |
 
-The pack tank holds several Shatterers at once and gets hammered — **Sarixen is our only paladin now, so he takes the Shatterer packs: all three tank healers dump into him.** If a pack ends up on Calph instead, heal whoever actually has it — follow the pack, not the sheet. Gipples keeps Treels up through these.
+The pack tank holds several Shatterers at once and gets hammered — **Sarixen is our only paladin now, so he takes the Shatterer packs: all three tank healers dump into him.** If a pack ends up on treels/etc instead, heal whoever actually has it — follow the pack, not the sheet. Gipples keeps Treels up through these.
 
 ---
 
