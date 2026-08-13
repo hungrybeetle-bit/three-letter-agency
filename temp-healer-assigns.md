@@ -11,7 +11,7 @@
 | Tazianne | Resto Shaman | Raid heals at his own discretion — no fixed boss assignments |
 
 **Standing rules:**
-- **Tank comp: Sarixen (Prot Paladin, boss tank), Treels (Feral bear), Calph (Feral bear, trash only).**
+- **Tank comp: Sarixen (Prot Paladin, boss tank), Treels (Feral bear), Hesky (Prot Paladin, trash only).**
 - **Tank healers are Healparser, Kumin, and Colbsterx — priests are never assigned to tanks. Sole exception: Gipples always heals warlock tanks.**
 - **Healparser priority rule:** Healparser heals Sarixen wherever Sarixen is tanking. Only when Sarixen isn't tanking anything does Healparser move (Treels, or per-boss exception below).
 - **Shaman rule:** when assigned a tank, cast Chain Heal ON the tank — tank gets the big first heal, the bounces heal nearby melee for free.
